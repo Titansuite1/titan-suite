@@ -1,15 +1,15 @@
-# Titan Suite Platform v1.0
+# Titan Suite Platform v2.0
 
-This is a static website you can upload to Netlify by drag-and-drop.
+Premium pre-launch website for Titan Suite.
 
-## How to publish on Netlify
+## How to upload to GitHub Pages
 
-1. Go to https://www.netlify.com/
-2. Create a free account
-3. Click "Add new site"
-4. Choose "Deploy manually" or "Drag and drop"
-5. Upload this folder or ZIP file
-6. Your site is live
+1. Extract this ZIP.
+2. Open your GitHub repository: titansuite1/titan-suite
+3. Click "Add file" > "Upload files"
+4. Drag all extracted files/folders into GitHub.
+5. Commit changes.
+6. Wait 1–2 minutes for GitHub Pages to update.
 
 ## Payments
 
@@ -21,10 +21,6 @@ The pricing buttons currently contain placeholder links:
 - YOUR_STRIPE_UNLIMITED_LINK
 
 Create Stripe Payment Links, then replace those placeholders in pricing.html.
-
-## TradingView access
-
-At launch, you can manually grant customers invite-only script access after purchase.
 
 ## Included pages
 
